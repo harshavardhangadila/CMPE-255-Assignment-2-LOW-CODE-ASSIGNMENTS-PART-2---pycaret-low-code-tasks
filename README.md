@@ -1,4 +1,4 @@
-##LOW-CODE-ASSIGNMENTS-PART-2---pycaret-low-code-tasks
+## PYCARET-Low-Code-Tasks
 
 
 PyCaret is an open-source, low-code machine learning library in Python that streamlines machine learning workflows. It serves as an end-to-end tool for machine learning and model management, significantly enhancing productivity by accelerating the experimental cycle.
@@ -18,5 +18,3 @@ Analyze Model: Assessing model performance.
 Prediction: Making predictions using the selected model.
 Save Model: Storing the model for future use.
 
-
-Youtube link: https://www.youtube.com/playlist?list=PL3wbQO71NfYiItlZr5STWy70B1vMDGFkJ
